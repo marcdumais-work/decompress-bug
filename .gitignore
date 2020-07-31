@@ -1,2 +1,5 @@
 node_modules
 dist
+*.vsix
+4.2.0/4.2.0.txt
+4.2.1/4.2.1.txt 
